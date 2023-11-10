@@ -4,9 +4,9 @@ This challenge was to build out this QR code component and get it looking as clo
 
 ## My version of this task
 
-1. Desktop design.
+Desktop design.
 <img width="960" alt="QR-desktop" src="https://github.com/Maria-Y01/QR-code/assets/136391989/9a6c588c-6747-47d1-9445-bf89de02e6b0">
 
-2. Mobile design
-![QR-mobile](https://github.com/Maria-Y01/QR-code/assets/136391989/271eb79a-2ab0-4a27-921f-249efed65a6e)
+Mobile design.
+<img width="500" alt="QR-mobile" src="https://github.com/Maria-Y01/QR-code/assets/136391989/271eb79a-2ab0-4a27-921f-249efed65a6e">
 
